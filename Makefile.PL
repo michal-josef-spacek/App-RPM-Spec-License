@@ -23,6 +23,7 @@ requires 'English' => 0;
 requires 'Error::Pure' => 0;
 requires 'File::Find::Rule' => 0;
 requires 'Getopt::Std' => 0;
+requires 'List::Util' => 1.33;
 requires 'Parse::RPM::Spec' => 0;
 resources 'bugtracker' => 'https://github.com/michal-josef-spacek/App-RPM-Spec-License/issues',
 resources 'homepage' => 'https://github.com/michal-josef-spacek/App-RPM-Spec-License';
