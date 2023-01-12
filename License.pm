@@ -147,7 +147,7 @@ Returns 1 for error, 0 for success.
 
 =head1 EXAMPLE1
 
-=for comment filename=print_license.pl
+=for comment filename=print_licenses.pl
 
  use strict;
  use warnings;
@@ -166,6 +166,9 @@ Returns 1 for error, 0 for success.
  barf(catfile($temp_dir, 'ex2.spec'), <<'END');
  License: MIT
  END
+ barf(catfile($temp_dir, 'ex3.spec'), <<'END');
+ License: MIT
+ END
 
  # Arguments.
  @ARGV = (
@@ -177,6 +180,7 @@ Returns 1 for error, 0 for success.
 
  # Output:
  # BSD
+ # MIT
  # MIT
 
 =head1 EXAMPLE2

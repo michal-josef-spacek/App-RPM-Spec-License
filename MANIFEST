@@ -1,6 +1,6 @@
 bin/rpm-spec-license
 Changes
-examples/print_license.pl
+examples/print_licenses.pl
 examples/print_unique_licenses.pl
 inc/Module/Install.pm
 inc/Module/Install/AuthorRequires.pm

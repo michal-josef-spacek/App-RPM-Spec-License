@@ -1,5 +1,6 @@
 0.02
  - Add -u command option to print unique licenses only.
+ - Change example in doc to print duplicite license.
 
 0.01 2023-01-12T15:37:52+01:00
  - First version.
