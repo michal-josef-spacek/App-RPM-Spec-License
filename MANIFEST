@@ -19,6 +19,7 @@ Makefile.PL
 MANIFEST			This list of files
 META.yml
 README
+SIGNATURE
 t/App-RPM-Spec-License/01-use.t
 t/App-RPM-Spec-License/02-version.t
 xt/App-RPM-Spec-License/01-pod_coverage.t
