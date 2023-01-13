@@ -10,7 +10,7 @@ use Getopt::Std;
 use List::Util qw(none);
 use Parse::RPM::Spec;
 
-our $VERSION = 0.02;
+our $VERSION = 0.03;
 
 $| = 1;
 
@@ -248,6 +248,6 @@ BSD 2-Clause License
 
 =head1 VERSION
 
-0.02
+0.03
 
 =cut

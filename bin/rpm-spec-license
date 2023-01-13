@@ -5,7 +5,7 @@ use warnings;
 
 use App::RPM::Spec::License;
 
-our $VERSION = 0.02;
+our $VERSION = 0.03;
 
 # Run.
 exit App::RPM::Spec::License->new->run;
@@ -95,6 +95,6 @@ BSD 2-Clause License
 
 =head1 VERSION
 
-0.02
+0.03
 
 =cut
