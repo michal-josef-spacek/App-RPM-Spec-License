@@ -2,7 +2,8 @@ TODO
 ====
 1. Tests.
 2. Sort output licenses (if !-f)
-3.
+3. Add support for Fedora::RPM::Spec::License
+4.
 
 Applied
 =======
