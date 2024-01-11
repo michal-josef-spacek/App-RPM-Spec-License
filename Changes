@@ -1,4 +1,5 @@
 0.03
+ - Fix =head1 of EXAMPLE in doc.
  - Update Module::Install to 1.21 version.
 
 0.02 2023-01-13T13:50:20+01:00

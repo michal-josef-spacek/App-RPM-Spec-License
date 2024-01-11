@@ -69,7 +69,7 @@ Default value is actual directory.
 
 =back
 
-=head2 EXAMPLE1
+=head1 EXAMPLE1
 
  rpm-spec-license __dir_with_spec_files__
 

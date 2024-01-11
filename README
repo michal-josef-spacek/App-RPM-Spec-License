@@ -38,7 +38,7 @@ ARGUMENTS
 
             Default value is actual directory.
 
-  EXAMPLE1
+EXAMPLE1
      rpm-spec-license __dir_with_spec_files__
 
 EXAMPLE2
